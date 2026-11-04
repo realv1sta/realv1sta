@@ -1,4 +1,4 @@
-# Tree Enthusiast 
+# Tree Enthusiast 🌳
 
 https://github.com/realv1sta/visnux
 
